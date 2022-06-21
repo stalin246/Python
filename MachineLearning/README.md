@@ -14,7 +14,7 @@
 ### Aprendizaje supervisado
 #### :octocat: Link en GitHub: [codelink](https://github.com/EdFarinango/IA_noSupervisado/blob/main/IA_Supervisado_arbol.ipynb)
 ![image](https://user-images.githubusercontent.com/77359338/174866792-a1dd05d0-3411-4694-9d38-19c5348ed9c4.png)
-#### :octocat: Link en GitHub: [codelink](https://github.com/stalin246/Python/blob/main/MachineLearning/Supervisado/RegresionLogistica/Colab-MachineLearning-main/Regresion_logistica.ipynb)
+#### :octocat: Link en GitHub: [codelink](https://github.com/stalin246/Python/blob/main/MachineLearning/Supervisado/RegresionLogistica/Regresion_logistica.ipynb)
 ![image](https://user-images.githubusercontent.com/77359338/174867847-f40653ef-ee12-4475-add4-b41a3121980f.png)
 ### Aprendizaje no supervisado
 #### :octocat: Link en GitHub: [codelink](https://github.com/MarlonAdrian/Aprendizaje-no-supervisado/blob/main/No_supervisado.ipynb)
