@@ -80,7 +80,7 @@ Para ello se empleará un dataset que está ubicado en la carpeta carpetacorresp
 #### ![Captura de pantalla (2379)](https://user-images.githubusercontent.com/77359338/156856302-49bd6957-4853-4f4a-a645-0108d66e2f3a.png)
 
 Haremos uso de un dataset que contenga ubicación por latitud y longitud por que nos servirá más adelante. Nuevamente se hará uso de la base de datos PosgreSql la cual importara la información a MongoDB.
-[linkcode](https://github.com/stalin246/ProyectoFinal_AnalisisdeDatos/tree/main/Simplemaps)
+[codelink](https://github.com/stalin246/ProyectoFinal_AnalisisdeDatos/tree/main/Simplemaps)
 
 
 
