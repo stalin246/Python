@@ -38,14 +38,14 @@ Para la recopilación de la información acerca de la política en Ecuador se ut
 #### ![Captura de pantalla (2367)](https://user-images.githubusercontent.com/77359338/156854836-a10d0668-a7af-4692-9500-dec616354535.png)
 
 Lo  primero que se realizó fue recopilar información de todo lo referente a Ucrania, y una vez obtenida la información se la almacenó en la base de datos de CouchDB y luego migramos la información, todo eso lo realizamos mediante el siguiente script.
-[codelink](AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/Facebook/Facebook_.py)
+[codelink](https://github.com/stalin246/Python/blob/main/AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/Facebook/Facebook_.py)
 
 ### 3. Juegos en linea
 
 #### ![Captura de pantalla (2370)](https://user-images.githubusercontent.com/77359338/156855143-965b39c7-3833-41a4-98fa-059651efca81.png)
 
 Para la recopilación de datos se utilizó la plataforma de Tiktok, mediante el cmd se obtuvo el archivo .csv el cual contenía información acerca de los juegos populares. Luego el archivo fue subida a la base de datos MongoDB atlas  y posteriormente fue migrada a MongoDb.
-[codelink](https://github.com/stalin246/ProyectoFinal_AnalisisdeDatos/tree/main/TikTok)
+[codelink]()
 
 ### 4. Libros más vendidos
 
