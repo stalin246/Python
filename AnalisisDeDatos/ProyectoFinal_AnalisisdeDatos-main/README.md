@@ -31,7 +31,7 @@ Para realizar la sincronizacion de 🍃MongoDb con 📶Power Bi debemos instalar
 #### ![Captura de pantalla (2365)](https://user-images.githubusercontent.com/77359338/156854535-cf39b369-79bd-4689-8ce8-8c4cfe274158.png)
 
 Para la recopilación de la información acerca de la política en Ecuador se utilizó la red social de Twitter, en donde por medio del siguiente script se extrajo la información, se almacenó en couchDb y finalmente la información fue migrada a MongoDB.
-[codelink](https://github.com/stalin246/ProyectoFinal_AnalisisdeDatos/tree/main/Twitter) 
+[codelink](https://github.com/stalin246/Python/blob/main/AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/Twitter/Twitter_.py) 
 
 ### 2. Noticias en Ucrania
 
