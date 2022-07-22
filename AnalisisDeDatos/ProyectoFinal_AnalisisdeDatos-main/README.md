@@ -66,14 +66,14 @@ Para poder recolectar datos de Spotify tenemos que registrarnos como desarrollad
 #### ![Captura de pantalla (2375)](https://user-images.githubusercontent.com/77359338/156855814-5247e756-813b-4280-ada8-e1215f8a6f0f.png)
 
 Utilizaremos un dataset que lo podemos encontrar un csv dentro de la siguiente carpeta. Utilizaremos la base de datos PosgreSql pero para ello necesitamos instalar sus librería que nos permitirán establecer la conexión con nuestro compilador, seguido estableceremos la relación con MongoDB para poder importar la base de datos.
-[codelink](https://github.com/stalin246/Python/blob/main/AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/IMBD/Final.py)
+[codelink](https://github.com/stalin246/Python/blob/main/AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/IMBD)
 
 ### 7. Videojuegos hasta la actualidad
 
 #### ![Captura de pantalla (2378)](https://user-images.githubusercontent.com/77359338/156856094-042935cf-de9b-4491-9d15-958004c8bcd5.png)
 
 Para ello se empleará un dataset que está ubicado en la carpeta carpetacorrespondiente del codigo, el csv contiene todos los registros de los video juegos hasta la actualidad, utilizaremos nuestra base de datos postgreSql con su debida librería en python, luego lo importaremos a nuestra base de datos MongoDB.
-[codelink](https://github.com/stalin246/Python/blob/main/AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/Metacritic/Final.py))
+[codelink](https://github.com/stalin246/Python/blob/main/AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/Metacritic)
 
 ### 8. Población del Ecuador
 
