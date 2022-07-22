@@ -38,7 +38,7 @@ Para la recopilación de la información acerca de la política en Ecuador se ut
 #### ![Captura de pantalla (2367)](https://user-images.githubusercontent.com/77359338/156854836-a10d0668-a7af-4692-9500-dec616354535.png)
 
 Lo  primero que se realizó fue recopilar información de todo lo referente a Ucrania, y una vez obtenida la información se la almacenó en la base de datos de CouchDB y luego migramos la información, todo eso lo realizamos mediante el siguiente script.
-[codelink](https://github.com/stalin246/ProyectoFinal_AnalisisdeDatos/tree/main/Facebook)
+[codelink](AnalisisDeDatos/ProyectoFinal_AnalisisdeDatos-main/Facebook/Facebook_.py)
 
 ### 3. Juegos en linea
 
