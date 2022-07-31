@@ -12,7 +12,7 @@
 ![Captura de pantalla (2827)](https://user-images.githubusercontent.com/77359338/174866426-0a5b5758-a81c-406b-b2dd-f6089baecda9.png)
 
 ### Aprendizaje supervisado
-#### :octocat: Link en GitHub: [codelink](https://github.com/EdFarinango/IA_noSupervisado/blob/main/IA_Supervisado_arbol.ipynb)
+#### :octocat: Link en GitHub: [codelink](https://github.com/stalin246/Python/blob/main/MachineLearning/Types%20of%20learning/Supervisado/ArbolDesicion/IA_Supervisado_arbol.ipynb)
 ![image](https://user-images.githubusercontent.com/77359338/174866792-a1dd05d0-3411-4694-9d38-19c5348ed9c4.png)
 #### :octocat: Link en GitHub: [codelink](https://github.com/stalin246/Python/blob/main/MachineLearning/Supervisado/RegresionLogistica/Regresion_logistica.ipynb)
 ![image](https://user-images.githubusercontent.com/77359338/174867847-f40653ef-ee12-4475-add4-b41a3121980f.png)
