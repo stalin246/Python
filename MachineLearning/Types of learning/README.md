@@ -19,5 +19,5 @@
 ### Aprendizaje no supervisado
 #### :octocat: Link en GitHub: [codelink](https://github.com/stalin246/Python/blob/main/MachineLearning/Types%20of%20learning/NoSupervisado/Aprendizaje-no-supervisado-main/Clasificacion/No_supervisado.ipynb)
 ![image](https://user-images.githubusercontent.com/77359338/174868337-feb15e77-c92f-4135-bda0-bc059b7ace30.png)
-#### :octocat: Link en GitHub: [codelink](https://github.com/BryanTnz/ReconocimientoFacialIA](https://github.com/stalin246/Python/tree/main/MachineLearning/Types%20of%20learning/NoSupervisado/ReconocimientoFacial)
+#### :octocat: Link en GitHub: [codelink](https://github.com/stalin246/Python/tree/main/MachineLearning/Types%20of%20learning/NoSupervisado/ReconocimientoFacial)
 ![image](https://user-images.githubusercontent.com/77359338/174868879-c4de3aa4-9ac1-486b-8480-e54e59058e29.png)
