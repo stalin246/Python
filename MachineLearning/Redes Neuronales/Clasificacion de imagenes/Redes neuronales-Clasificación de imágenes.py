@@ -4,7 +4,7 @@
 # In[32]:
 
 
-# Integrantes: Eduardo Farinango, Luis Valencia
+# Nombre: Luis Valencia
 
 # Instalamos tensorflow, keras e importamos las libreria 
 import numpy as np
